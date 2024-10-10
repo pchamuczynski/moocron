@@ -1,0 +1,1 @@
+An example and counterargument about how easy packaging for pip can be. It is for my French friend, a devoted socialist and not really a big fan of Emmanuel Macron.
